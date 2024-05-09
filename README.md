@@ -10,7 +10,9 @@ You can login with the following username and password without registration.
 
 username : admin@admin.com
 
-password : 12345"# MERN-stack-pos-application" 
+password : 12345"# 
+
+MERN-stack-pos-application" 
 
 **Login:**
 <p> 
